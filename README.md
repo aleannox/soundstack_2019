@@ -8,3 +8,5 @@
 - LASP (catch  audio signals)
     - https://github.com/keijiro/Lasp/releases
     - https://codeload.github.com/keijiro/Lasp/zip/master
+- OSCJack (OSC communication)
+    - https://github.com/keijiro/OscJack/releases
