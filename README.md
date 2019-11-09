@@ -3,5 +3,8 @@
 ## Unity Plugins
 - Standard Assets (First Person Controller, etc.)
     - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351  
-- PCX (Pointcloud Importer)
-    - https://github.com/keijiro/Pcx
+- PCX (pointcloud importer)
+    - https://github.com/keijiro/Pcx/releases
+- LASP (catch  audio signals)
+    - https://github.com/keijiro/Lasp/releases
+    - https://codeload.github.com/keijiro/Lasp/zip/master
